@@ -2,8 +2,8 @@
 
 ### 💜 배우고 있는것 💜
 
-![C](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg)  
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
